@@ -1,0 +1,15 @@
+.container{
+    display:flex;
+}
+.circleone{
+width: 40px;
+height: 40px;
+border-radius: 50%;
+background: #590059;
+}
+.circletwo{
+width: 40px;
+height: 40px;
+border-radius: 50%;
+background: paleturquoise;
+}
