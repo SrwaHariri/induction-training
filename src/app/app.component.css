@@ -1,0 +1,39 @@
+.app-container{
+    position: relative;
+    display:flex;
+    flex-flow: column;
+    background:#f1f6ff;
+    align-items: center;
+}
+
+.line-one{
+
+     transform: translate(25px,0);
+    border-left :5px solid #590059;
+    border-right: 5px solid #590059;
+    height: 100px;
+    width: 20px;
+     transform: translate(100px,0);
+     background: pink;
+}
+.line-two{
+     transform: translate(25px,0);
+    transform: translate(50px,0);
+    border-left :5px solid #590059;
+    border-right: 5px solid #590059;
+    height: 80px;
+    width: 20px;
+background: paleturquoise;
+
+}
+h1{
+     transform: translate(25px,0);
+    text-align: center;
+    border:5px solid #590059;
+    width:400px ;
+    border-radius: 10px;
+    background: #590059;
+    color: white;
+    padding: 10px;
+    margin: 20px;;
+}
